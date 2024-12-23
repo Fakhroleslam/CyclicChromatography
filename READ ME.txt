@@ -1,0 +1,14 @@
+Requirements:
+This code, successfully worked on
+- MATLAB version 9.14 (R2023a)
+- Simulink version 10.7 (R2023a)
+
+Running the Code:
+To execute the code, follow these steps:
+
+1- Navigate to the run_this_file.m script.
+2- Click "Run" to execute the code.
+All steps will be executed automatically, and the process will run without further user input.
+
+Saeid Asadi
+2024-11-28
