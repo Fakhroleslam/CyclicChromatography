@@ -15,4 +15,4 @@ The cyclic chromatography process involves four steps:
 
 •  Discrete-Event System model: The discrete-event behavior of the process was modeled using a Stateflow® Chart in MATLAB/Simulink®.
 
-Open-source examples of the developed simulator can be found in this repository, and in Supplementary Materials attached to the paper.
+Open-source examples of the developed simulator can be found in this repository and in Supplementary Materials attached to the paper.
